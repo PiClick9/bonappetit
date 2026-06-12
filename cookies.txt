@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bonappetit.com	TRUE	/	FALSE	1999999999	xid1	1
+.bonappetit.com	TRUE	/	FALSE	1999999999	CN_segments	co.w2624
+.bonappetit.com	TRUE	/	FALSE	1999999999	CN_geo_country_code	KR
+.bonappetit.com	TRUE	/	FALSE	1999999999	CN_xid_refresh	1a3f29ad-e194-48f9-8d5c-acf19d9b3a78
+.bonappetit.com	TRUE	/	FALSE	1999999999	CN_xid	1a3f29ad-e194-48f9-8d5c-acf19d9b3a78
+www.bonappetit.com	TRUE	/	FALSE	1999999999	SameSite	None
+
